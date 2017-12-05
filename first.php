@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 	<head>
 		<?php
 			echo "这是第一个php";
@@ -22,9 +22,6 @@
 		echo "这是第二个php";
 		?>
 		
-		<div>
-			这是一个php网站
-		</div>
 		
 		
 		<script type="text/javascript">
